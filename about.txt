@@ -5,14 +5,14 @@
 
  Welcome! 
 
- It's 2023-01-29 at 02:22 PM
+ It's 2023-01-29 at 03:46 PM
 
  This file is running on:    nt Windows 10
  
- The Python version is:      3.8.15
+ The Python version is:      3.8.16
  
  The Python interpreter is at: 
- C:\Users\edena\Anaconda3\python.exe
+ C:\Users\edena\Documents\StreamingData44671\streaming-03-rabbitmq\.conda\python.exe
 
  The active environment should be either conda OR pip (one should be None):
 
@@ -21,7 +21,7 @@
  
  The path to the active virtual environment is:
 
- C:\Users\edena\Anaconda3
+ C:\Users\edena\Documents\StreamingData44671\streaming-03-rabbitmq\.conda
  
  The Current Working Directory (CWD) where this command was launched is:
 
