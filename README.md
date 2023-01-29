@@ -97,4 +97,4 @@ Each of the version 2 programs include an error as well.
 
 ## Multiple Terminals
 
-![Mac Example](screenshot.png)
+![Window Example](screenshot.png)

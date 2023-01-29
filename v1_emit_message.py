@@ -19,7 +19,7 @@ ch = conn.channel()
 ch.queue_declare(queue="hello")
 # use the channel to publish a message to the queue
 #add variable for message
-message = "Holy cow - I think this is working!"
+message = "Rock Chalk!"
 ch.basic_publish(exchange="", routing_key="hello", body=message)
 # print a message to the console for the user
 print(f" [x] Sent {message}")
