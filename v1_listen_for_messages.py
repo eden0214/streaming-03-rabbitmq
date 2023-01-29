@@ -1,3 +1,4 @@
+# Eden Anderson / 1.29.23 / Hello World
 """
 
 Always customize this docstring. 
@@ -31,10 +32,11 @@ Terminal Reminders
 import pika, sys, os
 
 
+
 # define a main function to run the program
 def main():
     # create a blocking connection to the RabbitMQ server
-    connection = pika.BlockingConnection(pika.ConnectionParameters(host='LocalHostt'))
+    connection = pika.BlockingConnection(pika.ConnectionParameters(host='LocalHost'))
     # use the connection to create a communication channel
     channel = connection.channel()
     # use the channel to declare a queue
