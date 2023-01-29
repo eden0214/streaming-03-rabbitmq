@@ -55,10 +55,10 @@ As long as the process is running, we cannot use this terminal for other command
 
 ## Version 1: Don't Repeat Yourself (DRY)
 
-1. Did you notice you had to change the message in two places?
+1. Did you notice you had to change the message in two places? This actually took me a bit to recognize
     1. You update the actual message sent. 
     1. You also update what is displayed to the user. 
-1. Fix this by introducting a variable to hold the message. 
+1. Fix this by introducting a variable to hold the message. Done
     1. Use your variable when sending. 
     1. Use the variable again when displaying to the user. 
 
