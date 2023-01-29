@@ -1,3 +1,6 @@
+# Eden Anderson
+## Streaming Data 44671 / Module 3 Assignment
+
 # streaming-03-rabbitmq
 
 Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary
