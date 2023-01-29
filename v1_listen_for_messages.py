@@ -1,4 +1,3 @@
-# Eden Anderson / 1.29.23 / Hello World
 """
 
 Always customize this docstring. 
@@ -26,6 +25,8 @@ Terminal Reminders
 - Use the up arrow to get the last command executed.
 
 """
+
+# Eden Anderson / 1.29.23 / Hello World V1
 
 # you can add multiple imports on one line 
 # but we don't recommend it for readability
